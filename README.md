@@ -16,7 +16,9 @@ We want to be able to see your coding skills in action! For this please:
     git push origin master -u
     ```
 2. Work through the following tasks and push your solution to your private repository.
-3. Once done, invite [choffmeister](https://github.com/choffmeister) as collaborator.
+3. Once done, invite as collaborators:
+    * [choffmeister](https://github.com/choffmeister)
+    * [mscholz11](https://github.com/mscholz11)
 
 A few general hints that apply to all tasks:
 
